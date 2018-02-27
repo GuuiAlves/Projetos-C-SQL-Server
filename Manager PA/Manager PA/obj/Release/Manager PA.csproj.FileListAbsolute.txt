@@ -1,0 +1,9 @@
+C:\Users\Guilherme\Desktop\Manager PA 1.3 Form_login\Manager PA\bin\Release\Manager PA.exe.config
+C:\Users\Guilherme\Desktop\Manager PA 1.3 Form_login\Manager PA\bin\Release\Manager PA.exe
+C:\Users\Guilherme\Desktop\Manager PA 1.3 Form_login\Manager PA\bin\Release\Manager PA.pdb
+C:\Users\Guilherme\Desktop\Manager PA 1.3 Form_login\Manager PA\obj\Release\Manager_PA.frmLogin.resources
+C:\Users\Guilherme\Desktop\Manager PA 1.3 Form_login\Manager PA\obj\Release\Manager_PA.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Manager PA 1.3 Form_login\Manager PA\obj\Release\Manager_PA.Sobre.frmSobre.resources
+C:\Users\Guilherme\Desktop\Manager PA 1.3 Form_login\Manager PA\obj\Release\Manager PA.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\Manager PA 1.3 Form_login\Manager PA\obj\Release\Manager PA.exe
+C:\Users\Guilherme\Desktop\Manager PA 1.3 Form_login\Manager PA\obj\Release\Manager PA.pdb
